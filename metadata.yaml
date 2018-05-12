@@ -1,0 +1,30 @@
+_repo: Over-the-Line_26532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sherman, Harold M. (Harold Morrow)
+    aliases:
+    - Sherman, Harold Morrow
+    - Morrow, Edward J.
+    birthdate: 1898
+    deathdate: 1987
+    gutenberg_agent_id: '32076'
+    url: http://www.gutenberg.org/2009/agents/32076
+description: ''
+gutenberg_issued: '2008-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26532'
+  lccn: '29017920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Football -- Juvenile fiction'
+title: Over the Line
+url: http://www.gutenberg.org/ebooks/26532
